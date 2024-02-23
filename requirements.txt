@@ -1,6 +1,6 @@
 Flask==2.0.1
 gunicorn==20.1.0
 Flask-SQLAlchemy==2.5.1
-flask_cors==3.0.10  # or specify another version that is compatible
 pymongo==3.12.0
-# Add other dependencies
+
+Flask-CORS==3.0.10 
