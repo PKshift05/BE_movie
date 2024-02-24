@@ -348,4 +348,4 @@ class MovieFilter(Resource):
 api.add_resource(MovieFilter, "/movieFilter")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
